@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-06-04T17:51:29</date>
+  <millis>1622847089216</millis>
+  <sequence>0</sequence>
+  <logger>Api Client for SAP API Rest</logger>
+  <level>WARNING</level>
+  <class>com.mc.integration.rest.ApiClient</class>
+  <method>apiRestClientHttp</method>
+  <thread>1</thread>
+  <message>Codigo Error SAP: ZSDBP 000. Descripcion: Código Región no existe para el pais.. Request: {"Request":{"NumeroBPRelacion":"","GrupoVendedores":"107","OficinaDeVentas":"0","NumeroBPPrincipal":"","TipoDeEntidad":"A9","Apellido":"Gutierrez Tejada","TipoFacturacion":"20","Id":"1088261170","TipoActividad":"01","TipoId":"C02","Sexo":"2","ClaseDeCliente":"0"}}</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-06-04T17:51:52</date>
+  <millis>1622847112398</millis>
+  <sequence>0</sequence>
+  <logger>Api Client for SAP API Rest</logger>
+  <level>WARNING</level>
+  <class>com.mc.integration.rest.ApiClient</class>
+  <method>apiRestClientHttp</method>
+  <thread>1</thread>
+  <message>Codigo Error SAP: ZSDBP 000. Descripcion: Código Región no existe para el pais.. Request: {"Request":{"NumeroBPRelacion":"","GrupoVendedores":"107","OficinaDeVentas":"0","NumeroBPPrincipal":"","TipoDeEntidad":"A9","Apellido":"Gutierrez Tejada","TipoFacturacion":"20","Id":"1088261170","TipoActividad":"01","TipoId":"C02","Sexo":"2","ClaseDeCliente":"0"}}</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-06-04T17:52:50</date>
+  <millis>1622847170192</millis>
+  <sequence>0</sequence>
+  <logger>Api Client for SAP API Rest</logger>
+  <level>WARNING</level>
+  <class>com.mc.integration.rest.ApiClient</class>
+  <method>apiRestClientHttp</method>
+  <thread>1</thread>
+  <message>Codigo Error SAP: ZSDBP 000. Descripcion: Código Región no existe para el pais.. Request: {"Request":{"NumeroBPRelacion":"","GrupoVendedores":"107","OficinaDeVentas":"0","NumeroBPPrincipal":"","TipoDeEntidad":"A9","Apellido":"Gutierrez Tejada","TipoFacturacion":"20","Id":"1088261170","TipoActividad":"01","TipoId":"C02","Sexo":"2","ClaseDeCliente":"0"}}</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-06-04T17:53:32</date>
+  <millis>1622847212319</millis>
+  <sequence>0</sequence>
+  <logger>Api Client for SAP API Rest</logger>
+  <level>WARNING</level>
+  <class>com.mc.integration.rest.ApiClient</class>
+  <method>apiRestClientHttp</method>
+  <thread>1</thread>
+  <message>Codigo Error SAP: ZSDBP 000. Descripcion: Código Región no existe para el pais.. Request: {"Request":{"NumeroBPRelacion":"","GrupoVendedores":"107","OficinaDeVentas":"0","NumeroBPPrincipal":"","TipoDeEntidad":"A9","Apellido":"Gutierrez Tejada","TipoFacturacion":"20","Id":"1088261170","TipoActividad":"01","TipoId":"C02","Sexo":"2","ClaseDeCliente":"0"}}</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-06-04T17:54:29</date>
+  <millis>1622847269232</millis>
+  <sequence>0</sequence>
+  <logger>Api Client for SAP API Rest</logger>
+  <level>WARNING</level>
+  <class>com.mc.integration.rest.ApiClient</class>
+  <method>apiRestClientHttp</method>
+  <thread>1</thread>
+  <message>Codigo Error SAP: ZSDBP 000. Descripcion: Código Región no existe para el pais.. Request: {"Request":{"NumeroBPRelacion":"","GrupoVendedores":"107","OficinaDeVentas":"0","NumeroBPPrincipal":"","TipoDeEntidad":"A9","Apellido":"Gutierrez Tejada","TipoFacturacion":"20","Id":"1088261170","TipoActividad":"01","TipoId":"C02","Sexo":"2","ClaseDeCliente":"0"}}</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-06-04T17:56:49</date>
+  <millis>1622847409784</millis>
+  <sequence>0</sequence>
+  <logger>Api Client for SAP API Rest</logger>
+  <level>WARNING</level>
+  <class>com.mc.integration.rest.ApiClient</class>
+  <method>apiRestClientHttp</method>
+  <thread>1</thread>
+  <message>Codigo Error SAP: ZSDBP 000. Descripcion: Código Región no existe para el pais.. Request: {"Request":{"NumeroBPRelacion":"","GrupoVendedores":"107","OficinaDeVentas":"0","NumeroBPPrincipal":"","TipoDeEntidad":"A9","Apellido":"Gutierrez Tejada","TipoFacturacion":"20","Id":"1088261170","TipoActividad":"01","TipoId":"C02","Sexo":"2","ClaseDeCliente":"0"}}</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-06-04T18:20:41</date>
+  <millis>1622848841840</millis>
+  <sequence>0</sequence>
+  <logger>Api Client for SAP API Rest</logger>
+  <level>WARNING</level>
+  <class>com.mc.integration.rest.ApiClient</class>
+  <method>apiRestClientHttp</method>
+  <thread>1</thread>
+  <message>Codigo Error SAP: ZSDBP 000. Descripcion: Código Región no existe para el pais.. Request: {"Request":{"NumeroBPRelacion":"","OficinaDeVentas":"0","TipoDeEntidad":"A9","TipoActividad":"01","Sexo":"2","ClaseDeCliente":"0","Municipio":"22","GrupoVendedores":"107","NumeroBPPrincipal":"","Apellido":"Gutierrez Tejada","TipoFacturacion":"20","Id":"1088261170","TipoId":"C02"}}</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-06-04T18:22:56</date>
+  <millis>1622848976090</millis>
+  <sequence>0</sequence>
+  <logger>Api Client for SAP API Rest</logger>
+  <level>WARNING</level>
+  <class>com.mc.integration.rest.ApiClient</class>
+  <method>apiRestClientHttp</method>
+  <thread>1</thread>
+  <message>Codigo Error SAP: ZSDBP 003. Descripcion: Tipo ID no existe en SAP.. Request: {"Request":{"NumeroBPRelacion":"","OficinaDeVentas":"0","TipoDeEntidad":"A9","TipoActividad":"01","Sexo":"2","ClaseDeCliente":"0","Municipio":"5045","GrupoVendedores":"107","NumeroBPPrincipal":"","Region":"05","Apellido":"Gutierrez Tejada","TipoFacturacion":"20","Id":"1088261170","TipoId":"C02","Pais":"CO"}}</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-06-04T18:26:18</date>
+  <millis>1622849178885</millis>
+  <sequence>0</sequence>
+  <logger>Api Client for SAP API Rest</logger>
+  <level>WARNING</level>
+  <class>com.mc.integration.rest.ApiClient</class>
+  <method>apiRestClientHttp</method>
+  <thread>1</thread>
+  <message>Codigo Error SAP: ZSDBP 008. Descripcion: Clase de Cliente no existe en SAP.. Request: {"Request":{"NumeroBPRelacion":"","OficinaDeVentas":"0","TipoDeEntidad":"A9","TipoActividad":"01","Sexo":"2","ClaseDeCliente":"0","Municipio":"5045","GrupoVendedores":"107","NumeroBPPrincipal":"","Region":"05","Apellido":"Gutierrez Tejada","TipoFacturacion":"20","Id":"1088261170","TipoId":"CO2","Pais":"CO"}}</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-06-04T18:27:33</date>
+  <millis>1622849253212</millis>
+  <sequence>0</sequence>
+  <logger>Api Client for SAP API Rest</logger>
+  <level>WARNING</level>
+  <class>com.mc.integration.rest.ApiClient</class>
+  <method>apiRestClientHttp</method>
+  <thread>1</thread>
+  <message>Codigo Error SAP: ZSDBP 018. Descripcion: Nombre debe ser obligatorio.. Request: {"Request":{"NumeroBPRelacion":"","OficinaDeVentas":"0","TipoDeEntidad":"A9","TipoActividad":"01","Sexo":"2","ClaseDeCliente":"02","Municipio":"5045","GrupoVendedores":"107","NumeroBPPrincipal":"","Region":"05","Apellido":"Gutierrez Tejada","TipoFacturacion":"20","Id":"1088261170","TipoId":"CO2","Pais":"CO"}}</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-06-04T18:28:11</date>
+  <millis>1622849291316</millis>
+  <sequence>0</sequence>
+  <logger>Api Client for SAP API Rest</logger>
+  <level>WARNING</level>
+  <class>com.mc.integration.rest.ApiClient</class>
+  <method>apiRestClientHttp</method>
+  <thread>1</thread>
+  <message>Codigo Error SAP: ZSDBP 018. Descripcion: Nombre debe ser obligatorio.. Request: {"Request":{"NumeroBPRelacion":"","OficinaDeVentas":"0","TipoDeEntidad":"A9","TipoActividad":"01","Sexo":"2","ClaseDeCliente":"02","Municipio":"5045","GrupoVendedores":"107","NumeroBPPrincipal":"","Region":"05","Apellido":"Gutierrez Tejada","TipoFacturacion":"20","Id":"1088261170","TipoId":"CO2","Pais":"CO"}}</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-06-04T18:28:44</date>
+  <millis>1622849324877</millis>
+  <sequence>0</sequence>
+  <logger>Api Client for SAP API Rest</logger>
+  <level>WARNING</level>
+  <class>com.mc.integration.rest.ApiClient</class>
+  <method>apiRestClientHttp</method>
+  <thread>1</thread>
+  <message>Codigo Error SAP: ZSDBP 020. Descripcion: Teléfono debe ser obligatorio.. Request: {"Request":{"NumeroBPRelacion":"","Nombre":"test empresa","OficinaDeVentas":"0","TipoDeEntidad":"A9","TipoActividad":"01","Sexo":"2","ClaseDeCliente":"02","Municipio":"5045","GrupoVendedores":"107","NumeroBPPrincipal":"","Region":"05","Apellido":"Gutierrez Tejada","TipoFacturacion":"20","Id":"1088261170","TipoId":"CO2","Pais":"CO"}}</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-06-04T18:29:37</date>
+  <millis>1622849377983</millis>
+  <sequence>0</sequence>
+  <logger>Api Client for SAP API Rest</logger>
+  <level>WARNING</level>
+  <class>com.mc.integration.rest.ApiClient</class>
+  <method>apiRestClientHttp</method>
+  <thread>1</thread>
+  <message>Codigo Error SAP: ZSDBP 021. Descripcion: Dirección debe ser obligatorio.. Request: {"Request":{"NumeroBPRelacion":"","Nombre":"test empresa","OficinaDeVentas":"0","TipoDeEntidad":"A9","TipoActividad":"01","Sexo":"2","ClaseDeCliente":"02","Municipio":"5045","GrupoVendedores":"107","NumeroBPPrincipal":"","Telefono":"3333333","Region":"05","Apellido":"Gutierrez Tejada","TipoFacturacion":"20","Id":"1088261170","TipoId":"CO2","Pais":"CO"}}</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-06-04T18:30:08</date>
+  <millis>1622849408923</millis>
+  <sequence>0</sequence>
+  <logger>Api Client for SAP API Rest</logger>
+  <level>WARNING</level>
+  <class>com.mc.integration.rest.ApiClient</class>
+  <method>apiRestClientHttp</method>
+  <thread>1</thread>
+  <message>Codigo Error SAP: ZSDBP 025. Descripcion: Email debe ser obligatorio.. Request: {"Request":{"NumeroBPRelacion":"","Nombre":"test empresa","OficinaDeVentas":"0","TipoDeEntidad":"A9","TipoActividad":"01","Sexo":"2","ClaseDeCliente":"02","Municipio":"5045","GrupoVendedores":"107","NumeroBPPrincipal":"","Telefono":"3333333","Region":"05","Apellido":"Gutierrez Tejada","Direccion":"NaN","TipoFacturacion":"20","Id":"1088261170","TipoId":"CO2","Pais":"CO"}}</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-06-04T18:33:41</date>
+  <millis>1622849621075</millis>
+  <sequence>0</sequence>
+  <logger>Api Client for SAP API Rest</logger>
+  <level>WARNING</level>
+  <class>com.mc.integration.rest.ApiClient</class>
+  <method>apiRestClientHttp</method>
+  <thread>1</thread>
+  <message>Codigo Error SAP: 00 058. Descripcion: Entrada 107 no existe en TVBVK (Verifique la entrada). Request: {"Request":{"NumeroBPRelacion":"","Nombre":"test empresa","Email":"email@mc.net.co","OficinaDeVentas":"0","TipoDeEntidad":"A9","TipoActividad":"01","Sexo":"2","ClaseDeCliente":"02","Municipio":"5045","GrupoVendedores":"107","NumeroBPPrincipal":"","Telefono":"3333333","Region":"05","Apellido":"Gutierrez Tejada","Direccion":"NaN","TipoFacturacion":"20","Id":"1088261170","TipoId":"CO2","Pais":"CO"}}</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>

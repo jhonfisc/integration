@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-06-08T17:13:26</date>
+  <millis>1623190406174</millis>
+  <sequence>0</sequence>
+  <logger>Api Client for SAP API Rest</logger>
+  <level>WARNING</level>
+  <class>com.mc.integration.rest.ApiClient</class>
+  <method>apiRestClientHttp</method>
+  <thread>1</thread>
+  <message>Codigo Error SAP: ZSDBP 003. Descripcion: Tipo ID no existe en SAP.. Request: {"Request":{"NumeroBPRelacion":"","Email":"jheferson@gmail.com","TipoActividad":"02","TipoContacto":"CAR","Municipio":"5045","NumeroBPPrincipal":"","Telefono":"3117166199","Region":"05","Apellido":"Pe¿¿a","Direccion":"NaN","Id":"1116435537","TipoId":"C","Pais":"CO"}}</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-06-08T17:14:50</date>
+  <millis>1623190490611</millis>
+  <sequence>0</sequence>
+  <logger>Api Client for SAP API Rest</logger>
+  <level>WARNING</level>
+  <class>com.mc.integration.rest.ApiClient</class>
+  <method>apiRestClientHttp</method>
+  <thread>1</thread>
+  <message>Codigo Error SAP: ZSDBP 003. Descripcion: Tipo ID no existe en SAP.. Request: {"Request":{"NumeroBPRelacion":"","Email":"jheferson@gmail.com","TipoActividad":"02","TipoContacto":"CAR","Municipio":"5045","NumeroBPPrincipal":"0010000098","Telefono":"3117166199","Region":"05","Apellido":"Pe¿¿a","Direccion":"NaN","Id":"1116435537","TipoId":"C","Pais":"CO"}}</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-06-08T17:23:23</date>
+  <millis>1623191003347</millis>
+  <sequence>0</sequence>
+  <logger>Api Client for SAP API Rest</logger>
+  <level>WARNING</level>
+  <class>com.mc.integration.rest.ApiClient</class>
+  <method>apiRestClientHttp</method>
+  <thread>1</thread>
+  <message>Codigo Error SAP: ZSDBP 010. Descripcion: Tipo de Contacto  no existe en SAP.. Request: {"Request":{"NumeroBPRelacion":"","Email":"jheferson@gmail.com","TipoActividad":"02","TipoContacto":"CAR","Municipio":"5045","NumeroBPPrincipal":"0010000098","Telefono":"3117166199","Region":"05","Apellido":"Pe¿¿a","Direccion":"NaN","Id":"1116435537","TipoId":"CO2","Pais":"CO"}}</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-06-08T17:25:14</date>
+  <millis>1623191114993</millis>
+  <sequence>0</sequence>
+  <logger>Api Client for SAP API Rest</logger>
+  <level>WARNING</level>
+  <class>com.mc.integration.rest.ApiClient</class>
+  <method>apiRestClientHttp</method>
+  <thread>1</thread>
+  <message>Codigo Error SAP: ZSDBP 018. Descripcion: Nombre debe ser obligatorio.. Request: {"Request":{"NumeroBPRelacion":"","Email":"jheferson@gmail.com","TipoActividad":"02","TipoContacto":"Z001","Municipio":"5045","NumeroBPPrincipal":"0010000098","Telefono":"3117166199","Region":"05","Apellido":"Pe¿¿a","Direccion":"NaN","Id":"1116435537","TipoId":"CO2","Pais":"CO"}}</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-06-08T17:29:39</date>
+  <millis>1623191379290</millis>
+  <sequence>0</sequence>
+  <logger>Api Client for SAP API Rest</logger>
+  <level>WARNING</level>
+  <class>com.mc.integration.rest.ApiClient</class>
+  <method>apiRestClientHttp</method>
+  <thread>1</thread>
+  <message>Codigo Error SAP: R1 776. Descripcion: Imposible crear Relación entre interlocutores comerciales idénticos. Request: {"Request":{"NumeroBPRelacion":"","Nombre":"Jheferson","Email":"jheferson@gmail.com","TipoActividad":"02","TipoContacto":"Z001","Municipio":"5045","NumeroBPPrincipal":"0010000098","Telefono":"3117166199","Region":"05","Apellido":"Pe¿¿a","Direccion":"NaN","Id":"1116435537","TipoId":"CO2","Pais":"CO"}}</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
